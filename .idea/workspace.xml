@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcce4e70-1227-4783-9b58-07efe81ee1a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/child,avenParent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/child,avenParent/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/child,avenParent/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/child,avenParent/target/classes/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/child,avenParent/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenParent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V3ZWUeYunTRuonKktxQEiC1bqc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="child,avenParent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcce4e70-1227-4783-9b58-07efe81ee1a1" name="Default Changelist" comment="" />
+      <created>1576483770253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576483770253</updated>
+      <workItem from="1576483774892" duration="435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="313" key="FileChooserDialogImpl" timestamp="1576484186344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="313" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576484186344" />
+    <state width="1342" height="208" key="GridCell.Tab.0.bottom" timestamp="1576484060673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576484060673" />
+    <state width="1342" height="208" key="GridCell.Tab.0.center" timestamp="1576484060673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576484060673" />
+    <state width="1342" height="208" key="GridCell.Tab.0.left" timestamp="1576484060673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576484060673" />
+    <state width="1342" height="208" key="GridCell.Tab.0.right" timestamp="1576484060673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576484060673" />
+    <state x="0" y="233" key="new project wizard" timestamp="1576483967358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="233" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1576483967358" />
+  </component>
+</project>
